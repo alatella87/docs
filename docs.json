@@ -17,8 +17,10 @@
             "group": "Get Started",
             "pages": [
               "introduction",
-              "quickstart",
-              "development"
+              "business",
+              "developer",
+              "partner portal",
+              "glossary"
             ]
           },
           {
